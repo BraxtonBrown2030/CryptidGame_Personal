@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: 934fab0393f17234e8c2ee9a04610cca
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: be8ba51f6a764294685895ff5308a54d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_BasketShader
+    second: {fileID: 2100000, guid: aa365a75c5bb7d74aabdde2f146f7a03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_BellShader
+    second: {fileID: 2100000, guid: 46c5c4de6c2e92b41ae0f4237d227950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_BottleShader
+    second: {fileID: 2100000, guid: f2f5664dad32f804bb5ebc7eb5f0445b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_BucketShader
+    second: {fileID: 2100000, guid: 2797f759094c68247b502131a99c37c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_BucketShader1
+    second: {fileID: 2100000, guid: c9b9b3ab9eb6a404280799cd5004174c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_CabinetShader
+    second: {fileID: 2100000, guid: d7615b0ee50b3ac4d9340804878eda74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_ComputerShader
+    second: {fileID: 2100000, guid: 940ba4b7a850ced4cb729107c85fff1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_CounterTableShader
+    second: {fileID: 2100000, guid: adf3a1c05a543a142b5b6d1cc87b9af5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_CounterTableShader1
+    second: {fileID: 2100000, guid: 06de064b699583b42afe81ff3b05477e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_CounterTableShader2
+    second: {fileID: 2100000, guid: 2500ac5e903a77f4b97368e9d0674f81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_CupShader
+    second: {fileID: 2100000, guid: 99c465f1861dd904aa753edbfc5cd1ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_DecorTableShader
+    second: {fileID: 2100000, guid: 80bfcafdb86f3664ab1c3f666dc7f388, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_DecorTableShader1
+    second: {fileID: 2100000, guid: 1ef351c69699a3a49a0c7205a2e72e5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_DirtShader
+    second: {fileID: 2100000, guid: 6a02cf6638baf5b4da8bb0d81639e268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_DoorShader
+    second: {fileID: 2100000, guid: 46d80678961d5744fbab8aa8fb762c78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_FertShader
+    second: {fileID: 2100000, guid: c41705650cbf15047bfb746ddce1957b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_FertShader1
+    second: {fileID: 2100000, guid: ca8ed9a2e051c614db7708aa3bfa9c49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_FertShader2
+    second: {fileID: 2100000, guid: a6931cc3a6412f84fb8663c84bdd5882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_FertShader3
+    second: {fileID: 2100000, guid: 5de2f4cd6109e9e4db04dc0a81d366fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_FrontShopBaseShader
+    second: {fileID: 2100000, guid: 40e172dbd20f98e48a6eab1d40c8a0d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_FrontTableShader
+    second: {fileID: 2100000, guid: 6b16988b199a9bc40b8f6ac399f4ffe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_GrowLightShader
+    second: {fileID: 2100000, guid: 382fa6b8d69dc4647888575a1e09e9ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_GrowLightShader1
+    second: {fileID: 2100000, guid: 74ba0a4542b013a4dbd02e43071eba52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_GrowShelfShader
+    second: {fileID: 2100000, guid: a977c6857ab238341a5d17f00dd130e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_HookShader
+    second: {fileID: 2100000, guid: 5d93e96c6050da44f88916bfdeca8cce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_KnobShader
+    second: {fileID: 2100000, guid: f6ceeca9799602941abc8dadffd51a71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_LampBulbShader
+    second: {fileID: 2100000, guid: 83236a769f88b7a4c9f371dda5ba60b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_LampShader
+    second: {fileID: 2100000, guid: 710c0b3c34f536d43b61ba795fbd56f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_MainShopBaseShader
+    second: {fileID: 2100000, guid: dd7c5a160efd03b4a98dd60efec7660f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_MatShader
+    second: {fileID: 2100000, guid: 23b1bc03391ca3a4d9c91cdcd29bd4ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_NetShader
+    second: {fileID: 2100000, guid: 0d2923de43e73b54d91e1799173a928c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_PlaterShader
+    second: {fileID: 2100000, guid: 4ac9912913e2d1040a914a1a9b56c75b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_PlayerLidShader
+    second: {fileID: 2100000, guid: ba4b367b504ce3a4186e908ce5fdc13c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_PlayerShader
+    second: {fileID: 2100000, guid: cbddfb40b28899a4c90a8c356f2c66bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_PotBaseShader
+    second: {fileID: 2100000, guid: a07c2adf70501c142be94a02d9fe02b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_PotBaseShader1
+    second: {fileID: 2100000, guid: 3aa07695f37ec6a40a00982aecf2d06f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_PotBaseShader2
+    second: {fileID: 2100000, guid: efdaccfded7e7bd44a65e05ab1c29c72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_PotShader
+    second: {fileID: 2100000, guid: 89a46c718b1c9e54a900e4e1a2110276, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_PotShader1
+    second: {fileID: 2100000, guid: b52ac3974bb23444eb8f330f6e73faaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_PotShader2
+    second: {fileID: 2100000, guid: 42eb85edf0546944d808fbe312d12dce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_PrinterShader
+    second: {fileID: 2100000, guid: 514ffe7ddd806194e89560847d3f4408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_RackShader
+    second: {fileID: 2100000, guid: 1076d66c54f6d304e8d32c17ecabe75c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_RecordShader
+    second: {fileID: 2100000, guid: 22f1357e416f848449abe8c32403ceec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_RecordShader1
+    second: {fileID: 2100000, guid: fdd8cf5f0cf914d459750cb8ac54a3e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_RecordShader2
+    second: {fileID: 2100000, guid: 35aa453f30825354189fb683c4e693fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_RoofShader
+    second: {fileID: 2100000, guid: abd28dbb22e5b384b89e82eb0f7f413c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_RugShader
+    second: {fileID: 2100000, guid: ae702fcca0fc48e47983965c3214255e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_RugShader1
+    second: {fileID: 2100000, guid: 0f9989d2afe029a4ba1eb6c7d6b27ccc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_SeedShelfShader
+    second: {fileID: 2100000, guid: ea7d17e5e14315343bb046e32ca535cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_ShelfShader
+    second: {fileID: 2100000, guid: cf729df0d2cbd3048b30dadd5d40040a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_ShovelShader
+    second: {fileID: 2100000, guid: b6f736c73ec2b1e46bdac697537ccda1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_SinkShader
+    second: {fileID: 2100000, guid: b708e4e6f295f72418d9930211c684f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_SodaShader
+    second: {fileID: 2100000, guid: 32a4aa184b1996f4190b0f7f368ed699, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_SodaShader1
+    second: {fileID: 2100000, guid: 6156f04788abbb646b4a2750dc1bc5ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_SodaShader2
+    second: {fileID: 2100000, guid: ca2549573fd10cb458209b536c3ca6cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_SodaTopShader
+    second: {fileID: 2100000, guid: 9a0256ceb66d2674ab57be9e45979ca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_StoolShader
+    second: {fileID: 2100000, guid: 991d3e8bc48a2b646802ee1457ef847d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_VaseShader
+    second: {fileID: 2100000, guid: 9e0de92842a095d42bd472685723f193, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_VaseShader1
+    second: {fileID: 2100000, guid: a926acd6b7580454b95307342354d0cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_WaterCanShader
+    second: {fileID: 2100000, guid: 4cc715e157e79db44929755ac81aee31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_WaterShader
+    second: {fileID: 2100000, guid: 92adecdc17e5f05409c134f8d9d8434c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_WindowShader
+    second: {fileID: 2100000, guid: a39755e8df1c19142910809a31da7d09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_WorkingTableShader
+    second: {fileID: 2100000, guid: cfbce4d033315cc408d6d2cf564605b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantShopFix_WorkingTableShader1
+    second: {fileID: 2100000, guid: a435101a2d6526b4ba9cea0253b47569, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 9df8ef2c76b79254d8b5a0ee3544c2fc, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

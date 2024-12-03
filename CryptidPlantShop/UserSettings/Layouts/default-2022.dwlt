@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1521.6
     height: 758.4
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 123
+  controlID: 168
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 18
+  controlID: 145
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 719.2
     y: 0
-    width: 228
+    width: 288.8
     height: 708.4
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -188,9 +188,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 947.2
+    x: 1008
     y: 0
-    width: 329.60004
+    width: 250.40002
     height: 708.4
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
@@ -214,9 +214,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1276.8
+    x: 1258.4
     y: 0
-    width: 244.79993
+    width: 263.19995
     height: 708.4
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
@@ -299,7 +299,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 726.4
     y: 80.8
-    width: 226
+    width: 286.8
     height: 687.4
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -314,25 +314,25 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: a0a8fdffd0b4fdffb6bafdffc2bafdffb0ecfeff04f7feff08f7feff48f7feffacf7feff38f8feff04f9feffd851ffff1883ffffd2c0ffff26cdffff76ceffffa2e7ffff
+      m_SelectedIDs: 6e8ffeff
+      m_LastClickedID: -94354
+      m_ExpandedIDs: 728ffeff7e8ffeff1cbefeffe8befeff38c0feff50dcfeff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: PlantShopFixRef
+        m_OriginalName: PlantShopFixRef
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -81864
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 4
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 10}
+        m_ClientGUIView: {fileID: 7}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -360,9 +360,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1284
+    x: 1265.6
     y: 80.8
-    width: 243.79993
+    width: 262.19995
     height: 687.4
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -407,9 +407,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 954.4
+    x: 1015.2
     y: 80.8
-    width: 327.60004
+    width: 248.40002
     height: 687.4
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -432,7 +432,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Maya/Materials/NewShop
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -440,16 +440,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 52
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Maya/Materials/NewShop
   m_LastFoldersGridSize: 52
   m_LastProjectPath: C:\Users\ferri\Documents\GitKraken\CryptidGame\CryptidPlantShop
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 60}
-    m_SelectedIDs: 84930000
-    m_LastClickedID: 37764
-    m_ExpandedIDs: 00000000aa9100007a93000020aa00006eb000000ada0000fef1000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: f00d0100
+    m_LastClickedID: 69104
+    m_ExpandedIDs: 00000000b0aa0000baaa00006e0d010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -477,7 +477,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000aa910000
+    m_ExpandedIDs: 00000000b0aa000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -529,10 +529,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 1114.6001}
     m_GridSize: 52
   m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 165.60007
+  m_DirectoriesAreaWidth: 122.400024
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -974,9 +974,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.83489406, y: 1.2718791, z: 0.49906486}
+    m_Target: {x: -1.3289276, y: 0.5481596, z: -0.5460249}
     speed: 2
-    m_Value: {x: -0.83489406, y: 1.2718791, z: 0.49906486}
+    m_Value: {x: -1.3289276, y: 0.5481596, z: -0.5460249}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1022,13 +1022,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.22606716, y: 0.37877393, z: -0.09593877, w: -0.89235544}
+    m_Target: {x: -0.17394876, y: 0.80470526, z: -0.28510857, w: -0.49091032}
     speed: 2
-    m_Value: {x: -0.225943, y: 0.37982962, z: -0.09620622, w: -0.89186525}
+    m_Value: {x: -0.17394108, y: 0.8046697, z: -0.28509596, w: -0.49088863}
   m_Size:
-    m_Target: 1.1921322
+    m_Target: 1.11187
     speed: 2
-    m_Value: 1.1921322
+    m_Value: 1.11187
   m_Ortho:
     m_Target: 0
     speed: 2
